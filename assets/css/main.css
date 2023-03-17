@@ -268,6 +268,9 @@ i.fa-brands.fa-github {
 
 /* CONTAINER - INFORMATION */
 
+.title__description.line {
+  border-bottom: 1px solid black;
+}
 .title__description h1 {
   margin-top: 50px;
   text-align: center;
